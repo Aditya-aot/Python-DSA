@@ -10,5 +10,5 @@ Radix Sort
 Bucket Sort
 
 # Python-DSA
-![Uploading image.png…]()
+[<img src='https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
 
