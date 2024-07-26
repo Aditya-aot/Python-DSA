@@ -1,5 +1,5 @@
 # Sorting Algorithms:
-[<img src='![Uploading image.png…]()' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
+[<img src='https://miro.medium.com/v2/resize:fit:1400/1*VEHrVbasbL9Ft8lFThosiw.png' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
 
 
 Selection Sort,
