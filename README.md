@@ -1,5 +1,5 @@
 # Sorting Algorithms:
-[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-6-types-sorting-algorithms-registfy-dprve&psig=AOvVaw0RaMGlXdYW3BZC2lsOTHBV&ust=1722017629328000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIi5-dflwocDFQAAAAAdAAAAABAJ' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
+[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-6-types-sorting-algorithms-registfy-dprve&psig=AOvVaw2WS1A2ONdqF-lzUg98UEF7&ust=1722085366023000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMi5yITixIcDFQAAAAAdAAAAABAE' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
 
 
 Selection Sort,
