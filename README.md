@@ -1,6 +1,5 @@
 # Sorting Algorithms:
-[<img src='![Uploading image.png…]()
-' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
+[<img src='![Uploading image.png…]()' alt='github' width='400' height='200'>](https://github.com/Aditya-aot) 
 
 
 Selection Sort,
